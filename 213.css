@@ -160,25 +160,7 @@ header {
 	margin-left: 60px;
 	margin-right: 60px;
 	line-height: 140%;
-	}	
-.explanation {
-	background-image: url(back.png);
-	padding-bottom: 20px;
-}
-.explanation h3 {
-	background-image: url(about.png);
-	background-repeat: no-repeat;
-	height: 45px;
-	width: 242px;
-	margin-left: 70px;
 
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-}
-.participation {
-	background-image: url(back.png);
-	padding-bottom: 20px;
 }
 .participation h3 {
 	background-image: url(/images/participation.png);
@@ -205,10 +187,6 @@ header {
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
-	}
-.requirements {
-	background-image: url(back);
-	margin-bottom: 0px;
 	}
 .requirements h3 {
 	background-image: url(/images/requirements.png);
