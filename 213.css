@@ -29,7 +29,7 @@ body {
 	font-size: 0.9em;
 	height: 100%;
 	width: 100%;
-	background-image: url(/images/water.gif);
+	background-image: url("images/water.gif");
 	background-repeat: repeat-x;
 	background-position: top;
 	background-color: #F0ECD6;
@@ -57,7 +57,7 @@ a:hover, a:active {
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0px;
-	background-image: url(/images/squid..gif);
+	background-image: url("images/squid..gif");
 	background-repeat: no-repeat;
 	background-position: right top;
 	z-index: 4;
@@ -68,7 +68,7 @@ a:hover, a:active {
 	padding-top: 130px;
 	}
 header h1 {
-	background-image: url(/images/title.png);
+	background-image: url("images/title.png");
 	height: 195px;
 	width: 290px;
 	background-repeat: no-repeat;
@@ -80,7 +80,7 @@ header h1 {
 	overflow: hidden;
 	}
 header h2 {
-	background-image: url(/images/starfish.gif);
+	background-image: url("images/starfish.gif");
 	background-repeat: no-repeat;
 	height: 234px;
 	width: 33px;
@@ -98,7 +98,7 @@ header {
 	position: absolute;
 }
 .summary {
-	background-image: url(/images/top.jpeg);
+	background-image: url("images/top.jpeg");
 	background-repeat: no-repeat;
 	width: 385px;
 	padding-bottom: 20px;
@@ -124,11 +124,11 @@ header {
 	width: 385px;
 	margin-bottom: 0px;
 	padding-bottom: 20px;
-	background-image: url(/images/back.png);
+	background-image: url("images/back.png");
 	}
 .preamble h3{
 	margin-top: 0px;
-	background-image: url(/images/enlightenment.png);
+	background-image: url("images/enlightenment.png");
 	height: 45px;
 	width: 242px;
 	margin-left: 70px;
@@ -146,7 +146,7 @@ header {
 .supporting {
 	margin-top: 0px;
 	width: 385px;
-	background-image: url(/images/jelly.gif);
+	background-image: url("images/jelly.gif");
 	background-repeat: no-repeat;
 	background-position: bottom;
 	padding-bottom: 600px;
@@ -163,7 +163,7 @@ header {
 
 }
 .participation h3 {
-	background-image: url(/images/participation.png);
+	background-image: url("images/participation.png");
 	background-repeat: no-repeat;
 	height: 45px;
 	width: 242px;
@@ -174,11 +174,11 @@ header {
 	overflow: hidden;
 }	
 .benefits {
-	background-image: url(/images/back.png);
+	background-image: url("images/back.png");
 	padding-bottom: 20px;
 }	
 .benefits h3 {
-	background-image: url(/images/benefits.png);
+	background-image: url("images/benefits.png");
 	background-repeat: no-repeat;
 	height: 45px;
 	width: 242px;
@@ -189,7 +189,7 @@ header {
 	overflow: hidden;
 	}
 .requirements h3 {
-	background-image: url(/images/requirements.png);
+	background-image: url("images/requirements.png");
 	background-repeat: no-repeat;
 	height: 45px;
 	width: 242px;
@@ -202,7 +202,7 @@ header {
 .requirements p:nth-child(6) {
 	margin-bottom: 0px;
 	padding-bottom: 20px;
-	background-image: url(/images/huzzah.png);
+	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-position: center top;
 	padding-top: 45px;
@@ -232,7 +232,7 @@ footer {
 	font-family: Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	font-size: 0.75em;
-	background-image: url(/images/footer.png);
+	background-image: url("images/footer.png");
 	background-repeat: no-repeat;
 	height: 57px;
 	width: 252px;
@@ -242,7 +242,7 @@ footer {
 	visibility: visible;
 }
 .sidebar {
-	background-image: url(/images/menu-top.png);
+	background-image: url("images/menu-top.png");
 	background-repeat: no-repeat;
 	background-position: top;
 	width: 225px;
@@ -256,7 +256,7 @@ footer {
 .sidebar ul {
 	margin-left: 35px;
 	padding-left: 10px;
-	list-style-image: url(/images/bullet.png);
+	list-style-image: url("images/bullet.png");
 	list-style-position: outside;
 	margin-top: 5px;
 	}
@@ -264,11 +264,6 @@ footer {
 	margin-bottom: 10px;
 	line-height: 130%;
 	margin-right: 30px;
-	}
-.design-selection {
-	background-image: url(menu-back.jpeg);
-	margin-bottom: 0px;
-	padding-bottom: 20px;
 }
 .design-selection h3 {
 	background-image: url(/images/select.png);
@@ -310,15 +305,9 @@ footer {
 	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
-}
-.design-archives {
-	background-image: url(menu-back.jpg);
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom: 20px;
 }	
 .design-archives h3 {
-	background-image: url(/images/archives.png);
+	background-image: url("images/archives.png");
 	background-repeat: no-repeat;
 	height: 15px;
 	width: 200px;
@@ -329,14 +318,8 @@ footer {
 	white-space: nowrap;
 	overflow: hidden;
 }
-.zen-resources {
-	background-image: url(menu-back.png);
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom: 20px;
-}
 .zen-resources h3 {
-	background-image: url(/images/resources.png);
+	background-image: url("images/resources.png");
 	background-repeat: no-repeat;
 	height: 15px;
 	width: 200px;
@@ -348,7 +331,7 @@ footer {
 	overflow: hidden;
 }
 .sidebar .wrapper {
-	background-image: url(/images/menu-end.png);
+	background-image: url("images/menu-end.png");
 	background-repeat: no-repeat;
 	padding-bottom: 352px;
 	background-position: bottom;
@@ -358,7 +341,7 @@ footer {
 
 
 .extra2 {
-	background-image: url(/images/bottom.png);
+	background-image: url("images/bottom.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 200px;
@@ -373,7 +356,7 @@ footer {
 	width: 100%;
 	position: absolute;
 	top: 1200px;
-	background-image: url(/images/snake.png);
+	background-image: url("images/snake.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
